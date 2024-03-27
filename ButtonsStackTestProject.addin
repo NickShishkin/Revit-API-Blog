@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>ButtonsStackTestProject</Name>
+		<FullClassName>ButtonsStackTestProject.StackedButtonAppbyScottWilson</FullClassName>
+		<Text>TestApp</Text>
+		<Description>Creates  stacked buttons without the Text property and with 32x32 icons</Description>
+		<Assembly>ButtonsStackTestProject\ButtonsStackTestProject.dll</Assembly>
+		<AddInId>090CE0A9-93DF-4AFF-BBE8-9665B4B0BB26</AddInId>
+		<VendorId>TEST</VendorId>
+		<VendorDescription>Test Vendor</VendorDescription>
+	</AddIn>
+</RevitAddIns>
